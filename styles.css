@@ -67,11 +67,6 @@ footer {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)
 }
 
-.nav-button img {
-    font-size: 2.2rem;
-    margin-bottom: 0.3rem;
-}
-
 .nav-button:hover {
     background-color: #adaaaa;
     color: #fff;
@@ -92,7 +87,7 @@ footer {
         font-size: 1rem;
     }
 
-    .nav-button i {
+    .nav-button img {
         font-size: 2rem;
     }
 }
